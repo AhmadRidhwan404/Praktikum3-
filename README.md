@@ -1,5 +1,6 @@
 # Ahmad Ridhwan Ilham (312510222)-
-Matta kuliah : pengantar pemrograman 
+Mata kuliah : pengantar pemrograman 
+ 
 **Latihan 1 : menjalankan python console**
 
 > Menampilkan tulisan "Hello" dilayar
